@@ -176,23 +176,23 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS :
 ### SR flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/SR%20flip%20flop.PNG?raw=true)
 ### D flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/D%20flip%20flop.PNG?raw=true)
 ### JK flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/JK%20flip%20flop.PNG?raw=true)
 ### T flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/T%20flip%20flop.PNG?raw=true)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS :
 ### SR flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/w1.PNG?raw=true)
 ### D flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/w2.PNG?raw=true)
 ### JK flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/w3.PNG?raw=true)
 ### T flip flop:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/w4.PNG?raw=true)
 
 ### RESULTS :
 All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
