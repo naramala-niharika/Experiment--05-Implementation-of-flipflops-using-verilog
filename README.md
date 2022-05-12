@@ -100,9 +100,8 @@ Inputs	Present State	Next State
 From the above characteristic table, we can directly write the next state equation as
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
-
-### Procedure:
 */
+### Procedure:
 1.Open Quartus II and select new project and choose the file location.
 2.Module Declaration. Module should have the file name.
 3.Declare Inputs and outputs.
